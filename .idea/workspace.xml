@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="Half Pyramid with Numbers" />
+    <list default="true" id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="Inverted Pyramid With Numbers">
+      <change afterPath="$PROJECT_DIR$/src/patternprac/BTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternprac/FloydsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +37,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InvertedPyramidWithNumbers">
-    <configuration name="HalfPyramidWithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.HalfPyramidWithNumber" />
+  <component name="RunManager" selected="Application.BTriangle">
+    <configuration name="BTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternprac.BTriangle" />
       <module name="gfgpracjava" />
       <extension name="coverage">
         <pattern>
@@ -47,8 +51,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HollowRectanglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.HollowRectanglePattern" />
+    <configuration name="FloydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternprac.FloydsTriangle" />
+      <module name="gfgpracjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternprac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HalfPyramidWithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternprac.HalfPyramidWithNumber" />
       <module name="gfgpracjava" />
       <extension name="coverage">
         <pattern>
@@ -86,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolidRectanglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.SolidRectanglePattern" />
-      <module name="gfgpracjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patternprac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BTriangle" />
+        <item itemvalue="Application.FloydsTriangle" />
         <item itemvalue="Application.InvertedPyramidWithNumbers" />
         <item itemvalue="Application.HalfPyramidWithNumber" />
         <item itemvalue="Application.InvertedHalfPyramid" />
-        <item itemvalue="Application.HollowRectanglePattern" />
-        <item itemvalue="Application.SolidRectanglePattern" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658851986073</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Inverted Pyramid With Numbers">
+      <created>1658852277449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658852277449</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +183,7 @@
     <MESSAGE value="Hollow Rectangle" />
     <MESSAGE value="Inverted Half Pyramid" />
     <MESSAGE value="Half Pyramid with Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Half Pyramid with Numbers" />
+    <MESSAGE value="Inverted Pyramid With Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inverted Pyramid With Numbers" />
   </component>
 </project>
