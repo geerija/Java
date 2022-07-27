@@ -1,21 +1,25 @@
 package patternprac;
+//---*          ---empty spaces
+//--**
+//-***
+//****
 
 public class rightrriangle {
     public static void triright(int row)
     {
         //outer loop for printing the rows
-        for (int i=0;i<row;i++)
+        for (int i=1;i<=row;i++)
         {
 
-            for (int j=2*(row-i);j>=0;j--)
+            for (int j=1;j<=row-i;j++)
             {
                 //inner loop 1 for printing the spaces
                 System.out.print(" ");
             }
-            for (int j=0;j<=i;j++)
+            for (int j=1;j<=i;j++)
             {
                 //inner loop 2 for printing the columns---
-                System.out.print("* ");
+                System.out.print("*");
             }
             System.out.println();
         }
