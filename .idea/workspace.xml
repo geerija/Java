@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="Rhombus Pattern">
-      <change afterPath="$PROJECT_DIR$/src/patternprac/FullPyramidWithNumber.java" afterDir="false" />
+    <list default="true" id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="Full Pyramid With Number">
+      <change afterPath="$PROJECT_DIR$/src/patternprac/PalindromPyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FullPyramidWithNumber">
+  <component name="RunManager" selected="Application.PalindromPyramid">
     <configuration name="BTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patternprac.BTriangle" />
       <module name="gfgpracjava" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.FloydsTriangle" />
+    <configuration name="FullPyramidWithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternprac.FullPyramidWithNumber" />
       <module name="gfgpracjava" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FullPyramidWithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.FullPyramidWithNumber" />
+    <configuration name="PalindromPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternprac.PalindromPyramid" />
       <module name="gfgpracjava" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromPyramid" />
         <item itemvalue="Application.FullPyramidWithNumber" />
         <item itemvalue="Application.Rhombuspattern" />
         <item itemvalue="Application.BTriangle" />
         <item itemvalue="Application.rightrriangle" />
-        <item itemvalue="Application.FloydsTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658916215913</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Full Pyramid With Number">
+      <created>1658917055241</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658917055241</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +214,7 @@
     <MESSAGE value="Patterns" />
     <MESSAGE value="updated left trianngle" />
     <MESSAGE value="Rhombus Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rhombus Pattern" />
+    <MESSAGE value="Full Pyramid With Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full Pyramid With Number" />
   </component>
 </project>
