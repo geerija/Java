@@ -1,6 +1,6 @@
 package patternprac;
 //        1
-//      2 1 2     odd number of columns
+//      2 1 2     
 //    3 2 1 2 3    first number and last number same
 //  4 3 2 1 2 3 4
 //5 4 3 2 1 2 3 4 5
