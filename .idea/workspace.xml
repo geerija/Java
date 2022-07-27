@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="Full Pyramid With Number">
-      <change afterPath="$PROJECT_DIR$/src/patternprac/PalindromPyramid.java" afterDir="false" />
+    <list default="true" id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="Palindrom Pyramid">
+      <change afterPath="$PROJECT_DIR$/src/patternprac/ReversePyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PalindromPyramid">
+  <component name="RunManager" selected="Application.ReversePyramid">
     <configuration name="BTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patternprac.BTriangle" />
       <module name="gfgpracjava" />
@@ -76,6 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReversePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patternprac.ReversePyramid" />
+      <module name="gfgpracjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patternprac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Rhombuspattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patternprac.Rhombuspattern" />
       <module name="gfgpracjava" />
@@ -89,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rightrriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.rightrriangle" />
-      <module name="gfgpracjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patternprac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReversePyramid" />
         <item itemvalue="Application.PalindromPyramid" />
         <item itemvalue="Application.FullPyramidWithNumber" />
         <item itemvalue="Application.Rhombuspattern" />
         <item itemvalue="Application.BTriangle" />
-        <item itemvalue="Application.rightrriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658917055241</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Palindrom Pyramid">
+      <created>1658920319463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658920319463</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +222,7 @@
     <MESSAGE value="updated left trianngle" />
     <MESSAGE value="Rhombus Pattern" />
     <MESSAGE value="Full Pyramid With Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Full Pyramid With Number" />
+    <MESSAGE value="Palindrom Pyramid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrom Pyramid" />
   </component>
 </project>
