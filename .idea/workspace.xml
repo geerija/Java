@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="Palindrom Pyramid">
-      <change afterPath="$PROJECT_DIR$/src/patternprac/ReversePyramid.java" afterDir="false" />
+    <list default="true" id="94f15970-3076-4fb3-a571-a9e0ede8ec61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ConversionPrograms/ConvertBinarytoOctal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionPrograms/DecimalToOctal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionPrograms/OctalToDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2CTaX1BftDazVWzDYdDOToY3YbW" />
+  <component name="ProjectId" id="2CXE1nL67zlASowJc6APkJrOR8I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,17 +33,16 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReversePyramid">
-    <configuration name="BTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.BTriangle" />
+  <component name="RunManager" selected="Application.DecimalToOctal">
+    <configuration name="ConvertBinarytoOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionPrograms.ConvertBinarytoOctal" />
       <module name="gfgpracjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patternprac.*" />
+          <option name="PATTERN" value="ConversionPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FullPyramidWithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.FullPyramidWithNumber" />
+    <configuration name="DecimalToOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionPrograms.DecimalToOctal" />
       <module name="gfgpracjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patternprac.*" />
+          <option name="PATTERN" value="ConversionPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,38 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.PalindromPyramid" />
+    <configuration name="OctalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionPrograms.OctalToDecimal" />
       <module name="gfgpracjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patternprac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReversePyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.ReversePyramid" />
-      <module name="gfgpracjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patternprac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rhombuspattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patternprac.Rhombuspattern" />
-      <module name="gfgpracjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patternprac.*" />
+          <option name="PATTERN" value="ConversionPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,101 +78,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReversePyramid" />
-        <item itemvalue="Application.PalindromPyramid" />
-        <item itemvalue="Application.FullPyramidWithNumber" />
-        <item itemvalue="Application.Rhombuspattern" />
-        <item itemvalue="Application.BTriangle" />
+        <item itemvalue="Application.DecimalToOctal" />
+        <item itemvalue="Application.ConvertBinarytoOctal" />
+        <item itemvalue="Application.OctalToDecimal" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="48149d24-cd1b-4e03-a3ad-3ce36dc5c8db" name="Changes" comment="" />
-      <created>1658829066818</created>
+      <changelist id="94f15970-3076-4fb3-a571-a9e0ede8ec61" name="Changes" comment="" />
+      <created>1658940320466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658829066818</updated>
+      <updated>1658940320466</updated>
     </task>
-    <task id="LOCAL-00001" summary="Solid Rectangles">
-      <created>1658845247174</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1658845247174</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Solid Rectangles">
-      <created>1658845529791</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1658845529791</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Hollow Rectangle">
-      <created>1658850014032</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1658850014032</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Inverted Half Pyramid">
-      <created>1658851395127</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1658851395127</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Half Pyramid with Numbers">
-      <created>1658851986073</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1658851986073</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Inverted Pyramid With Numbers">
-      <created>1658852277449</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1658852277449</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Patterns">
-      <created>1658855284083</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1658855284083</updated>
-    </task>
-    <task id="LOCAL-00008" summary="updated left trianngle">
-      <created>1658913885966</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1658913885966</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Rhombus Pattern">
-      <created>1658916215913</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1658916215913</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Full Pyramid With Number">
-      <created>1658917055241</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1658917055241</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Palindrom Pyramid">
-      <created>1658920319463</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1658920319463</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,18 +105,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Solid Rectangles" />
-    <MESSAGE value="Hollow Rectangle" />
-    <MESSAGE value="Inverted Half Pyramid" />
-    <MESSAGE value="Half Pyramid with Numbers" />
-    <MESSAGE value="Inverted Pyramid With Numbers" />
-    <MESSAGE value="Patterns" />
-    <MESSAGE value="updated left trianngle" />
-    <MESSAGE value="Rhombus Pattern" />
-    <MESSAGE value="Full Pyramid With Number" />
-    <MESSAGE value="Palindrom Pyramid" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindrom Pyramid" />
   </component>
 </project>
